@@ -17,9 +17,8 @@
 
 ## What I Did By Myself
 - All graphics and icons.
-- I found a bug
-  In the tutorial in code 
-   public Form1()
+- I found a bug in the tutorial in code 
+          public Form1()
         {
             InitializeComponent();
             Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 25, 25));
@@ -36,7 +35,7 @@
             this.PnlFormLeader.Controls.Add(FrmDashboard_Vrb);
             FrmDashboard_Vrb.Show();
 
-        }      
+        }   
 
 
 ## Project Status
