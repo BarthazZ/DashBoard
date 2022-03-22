@@ -4,7 +4,7 @@
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [What I Did By Myself](#what I did by myself)
+* [What I Did By Myself](#what-i-did-by-myself)
 * [Project Status](#project-status)
 * [Sources](#sources)
 
