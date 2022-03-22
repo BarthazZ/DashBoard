@@ -1,11 +1,10 @@
 # DashBoard 
 > Modern Flat UI Design Dashboard in material design application in c# windows.
-![Example screenshot](./img/screenshot.png
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
-* [What I did by myself](#what I did by myself)
+* [What I Did By Myself](#what I did by myself)
 * [Project Status](#project-status)
 * [Sources](#sources)
 
@@ -16,7 +15,7 @@
 ## Technologies Used
 .Net Framework 4.7.2
 
-## What I did by myself
+## What I Did By Myself
 - All graphics and icons.
 - I found a bug
   In the tutorial in code btnDashboard.BackColor = Color.FromArgb(24, 30, 54);
