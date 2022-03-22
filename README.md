@@ -26,7 +26,7 @@
             pnlNav.Height = btnDashboard.Height;
             pnlNav.Top = btnDashboard.Top;
             pnlNav.Left = btnDashboard.Left;
-            btnDashboard.BackColor = Color.FromArgb(24, 30, 54); //first problem. Color numbers was wrong. 
+            btnDashboard.BackColor = Color.FromArgb(24, 30, 54); //Color numbers was wrong. 
                                                                  //This one 46, 51, 73, so DashBoard button all time lighting by this color.
             lblTitle.Text = "Dashboard";
             this.PnlFormLeader.Controls.Clear();
