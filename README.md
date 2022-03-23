@@ -1,7 +1,9 @@
 # DashBoard 
 > Modern Flat UI Design Dashboard in material design application in c# windows.
+>
 > Image presenting working app:
-> ![Screenshot](/Dashboard/DashBoard.gif)
+>
+> ![Screenshot](/DashBoard/DashBoard.gif)
 
 ## Table of Contents
 * [General Info](#general-information)
